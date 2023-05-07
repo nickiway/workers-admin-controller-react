@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/workers-admin-controller-react/static/css/main.f11cf808.css",
+    "main.js": "/workers-admin-controller-react/static/js/main.46e2366e.js",
+    "index.html": "/workers-admin-controller-react/index.html",
+    "main.f11cf808.css.map": "/workers-admin-controller-react/static/css/main.f11cf808.css.map",
+    "main.46e2366e.js.map": "/workers-admin-controller-react/static/js/main.46e2366e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f11cf808.css",
+    "static/js/main.46e2366e.js"
+  ]
+}
